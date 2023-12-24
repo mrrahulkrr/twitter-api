@@ -2,7 +2,7 @@
 
 Given an `app.js` file and a database file `twitterClone.db` consisting of five tables `user`, `follower`, `tweet`, `reply`, and `like`.
 
-Write APIs to perform operations on the tables `user`, `follower`, `tweet`, `reply`, and `like` containing the following columns,
+I have written APIs to perform operations on the tables `user`, `follower`, `tweet`, `reply`, and `like` containing the following columns,
 
 **User Table**
 
@@ -206,7 +206,7 @@ Here, if user1 follows user2 then,
 
 ### Authentication with JWT Token
 
-Write a middleware to authenticate the JWT token.
+Written a middleware to authenticate the JWT token.
 
 - **Scenario 1**
 
